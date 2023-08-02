@@ -67,7 +67,7 @@ body {
     
     .menu-card {
         display: flex;
-        padding: 0.1em;
+        padding: 5px;
         align-items: center;
         
     }
