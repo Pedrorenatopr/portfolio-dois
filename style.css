@@ -18,6 +18,14 @@ body {
     font-size: 10px;
 }
 
+<<<<<<< HEAD
+=======
+.menu {
+    justify-content: end;
+    text-align: center;
+    padding: 10px;
+}
+>>>>>>> 0a60eae71b956bc238b4475b5a50bd72f81caf25
 
 .menu-card {
     padding: 5px;
