@@ -34,6 +34,8 @@ body {
     color:  #bdc1c6;
 }
 
+
+
 @media screen and  (max-device-width: 700px) {
 
     .icone-item {
@@ -78,6 +80,17 @@ body {
         width: 65%;
         height: 100vh;
         padding-left: 10px;
+    }
+    
+    .perfil {
+        margin-top: 60px;
+        align-items: center;
+        text-align: center;
+    }
+
+    .perfil-img {
+        background-color: #bdc1c6;
+        border-radius: 100px;
     }
 
 }
