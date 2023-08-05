@@ -35,6 +35,12 @@ body {
 }
 
 
+.nome {
+    font-size: 24px;
+}
+
+
+
 
 @media screen and  (max-device-width: 700px) {
 
