@@ -43,6 +43,11 @@ body {
     font-size: 14px; 
 }
 
+.texto-perfil {
+    line-height: 1.7em;
+    text-align: center;
+    align-items: center;
+}
 
 @media screen and  (max-device-width: 700px) {
 
