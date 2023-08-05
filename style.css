@@ -7,8 +7,6 @@ body {
     left: 0;
     margin-left: 0;
     margin-right: 0;
-    background-image: url(1.jpg);
-    background-repeat: no-repeat;
 }
 
 .icones-menu {
@@ -101,6 +99,8 @@ body {
         margin-top: 60px;
         align-items: center;
         text-align: center;
+        border: white 1px solid;
+        width: 50%;
     }
 
     .perfil-img {
