@@ -49,6 +49,22 @@ body {
 
 }
 
+.perfil-img {
+    background-color: #525d68;
+    border-radius: 110px;
+    border: white 2px solid;
+}
+
+hr {
+    width: 50%;
+}
+
+.perfil {
+    padding: 2em;
+    text-align: center;
+    align-items: center;
+}
+
 @media screen and  (max-device-width: 700px) {
 
     .icone-item {
