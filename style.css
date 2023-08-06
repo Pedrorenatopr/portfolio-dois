@@ -99,13 +99,15 @@ body {
         margin-top: 60px;
         align-items: center;
         text-align: center;
-        border: white 1px solid;
-        width: 50%;
     }
 
     .perfil-img {
         background-color: #525d68;
         border-radius: 110px;
+    }
+
+    hr {
+        width: 50%;
     }
 
 }
