@@ -104,6 +104,7 @@ body {
     .perfil-img {
         background-color: #525d68;
         border-radius: 110px;
+        border: white 2px solid;
     }
 
     hr {
