@@ -46,7 +46,6 @@ body {
 
 .texto-perfil {
     line-height: 2em;
-
 }
 
 .perfil-img {
@@ -60,8 +59,9 @@ hr {
 }
 
 .perfil {
-    padding: 2em;
+    display: inline-block;
     text-align: center;
+    padding: 2em;
     align-items: center;
 }
 
@@ -112,6 +112,7 @@ hr {
     }
     
     .perfil {
+        display: block;
         margin-top: 60px;
         align-items: center;
         text-align: center;
