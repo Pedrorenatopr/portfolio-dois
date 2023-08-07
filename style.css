@@ -81,7 +81,13 @@ hr {
 
 .texto-card-projetos {
     text-align: left;
-    padding-left: 1em;
+    padding-left: 10px;
+}
+
+footer {
+    font-size: 10px;
+    text-align: center;
+    padding-top: 20px;
 }
 
 
