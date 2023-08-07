@@ -65,6 +65,23 @@ hr {
     align-items: center;
 }
 
+.texto-projeto {
+    padding: 1em;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.projetos {
+    display: grid;
+    gap: 2em;
+    align-items: center;
+    text-align: center;
+}
+
+
+
+
 @media screen and  (max-device-width: 700px) {
 
     .icone-item {
