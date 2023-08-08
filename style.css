@@ -59,12 +59,25 @@ hr {
 }
 
 .perfil {
-    display: inline-block;
     text-align: center;
     padding: 2em;
     align-items: center;
 }
 
+.projetos {
+    display: flex;
+    justify-content: space-around;
+}
+
+.texto-projeto {
+    text-align: left;
+    padding-left: 150px;
+    font-size: 24px;
+}
+
+footer {
+    display: none;
+}
 
 
 @media screen and  (max-device-width: 700px) {
