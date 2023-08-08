@@ -59,14 +59,18 @@ hr {
 }
 
 .perfil {
+    display: block;
     text-align: center;
     padding: 2em;
     align-items: center;
 }
 
 .projetos {
-    display: flex;
-    justify-content: space-around;
+    display: grid;
+    grid-template-columns: 23% 23% 23% 23%;
+    align-items: center;
+    gap: 2em;
+    padding-left: 4em;
 }
 
 .texto-projeto {
@@ -152,7 +156,7 @@ footer {
     }
 
     .projetos {
-        display: grid;
+        display: block;
         gap: 2em;
         align-items: center;
         text-align: center;
