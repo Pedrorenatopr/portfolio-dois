@@ -162,7 +162,8 @@ footer {
     
     .texto-card-projetos {
         text-align: left;
-        padding-left: 10px;
+        padding-left: 20px;
+        padding-top: 10px;
     }
     
     footer {
