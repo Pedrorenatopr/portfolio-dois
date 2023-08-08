@@ -76,7 +76,8 @@ hr {
 }
 
 footer {
-    display: none;
+    text-align: center;
+    font-size: 10px;
 }
 
 
